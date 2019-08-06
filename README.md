@@ -14,15 +14,15 @@ The original analysis of this database was made during January - May 2019.
 
 **INDEX/ÍNDICE** (in order or creation)
 
-* Original data file: https://github.com/nathsmo/Victimas_PNC_2017/blob/master/victimas_2017.xlsx
-* Final data file (altered in data wrangling): https://github.com/nathsmo/Victimas_PNC_2017/blob/master/vic_final.csv
-* First Data Wrangling: https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Data_Wrangling.ipynb
-* Victim description Excel file: https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Descripcion_victimas.xlsx
-* Data evaluation for different machine learning models: https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Evaluacion_de_datos_en_agrupacion_de_los_modelos.ipynb
-* Final class presentation: https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Presentacion%20Final%20MLE.pdf
-* Final Paper: https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Paper_Final_MLE.pdf
-* Algorithms library: https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Portafolio_de_algoritmos.ipynb
-* Second data wrangling: https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Procesamiento2.ipynb
+* [Original data file] (https://github.com/nathsmo/Victimas_PNC_2017/blob/master/victimas_2017.xlsx)
+* [Final data file (altered in data wrangling)] (https://github.com/nathsmo/Victimas_PNC_2017/blob/master/vic_final.csv)
+*[First Data Wrangling] (https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Data_Wrangling.ipynb)
+* [Victim description Excel file] (https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Descripcion_victimas.xlsx)
+* [Data evaluation for different machine learning models](https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Evaluacion_de_datos_en_agrupacion_de_los_modelos.ipynb)
+* [Final class presentation] (https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Presentacion%20Final%20MLE.pdf)
+* [Final Paper] (https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Paper_Final_MLE.pdf)
+* [Algorithms library] (https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Portafolio_de_algoritmos.ipynb)
+* [Second data wrangling] (https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Procesamiento2.ipynb)
 
 
 **Posibles cambios para el análisis de datos: / Possible changes for data analysis:
