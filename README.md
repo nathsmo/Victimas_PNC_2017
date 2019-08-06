@@ -14,25 +14,25 @@ The original analysis of this database was made during January - May 2019.
 
 **INDEX/ÍNDICE** (in order or creation)
 
-* [Original data file] (https://github.com/nathsmo/Victimas_PNC_2017/blob/master/victimas_2017.xlsx)
-* [Final data file (altered in data wrangling)] (https://github.com/nathsmo/Victimas_PNC_2017/blob/master/vic_final.csv)
-*[First Data Wrangling] (https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Data_Wrangling.ipynb)
-* [Victim description Excel file] (https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Descripcion_victimas.xlsx)
+* [Original data file](https://github.com/nathsmo/Victimas_PNC_2017/blob/master/victimas_2017.xlsx)
+* [Final data file (altered in data wrangling)](https://github.com/nathsmo/Victimas_PNC_2017/blob/master/vic_final.csv)
+*[First Data Wrangling](https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Data_Wrangling.ipynb)
+* [Victim description Excel file](https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Descripcion_victimas.xlsx)
 * [Data evaluation for different machine learning models](https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Evaluacion_de_datos_en_agrupacion_de_los_modelos.ipynb)
-* [Final class presentation] (https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Presentacion%20Final%20MLE.pdf)
-* [Final Paper] (https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Paper_Final_MLE.pdf)
-* [Algorithms library] (https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Portafolio_de_algoritmos.ipynb)
-* [Second data wrangling] (https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Procesamiento2.ipynb)
+* [Final class presentation](https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Presentacion%20Final%20MLE.pdf)
+* [Final Paper](https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Paper_Final_MLE.pdf)
+* [Algorithms library](https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Portafolio_de_algoritmos.ipynb)
+* [Second data wrangling](https://github.com/nathsmo/Victimas_PNC_2017/blob/master/Procesamiento2.ipynb)
 
 
-**Posibles cambios para el análisis de datos: / Possible changes for data analysis:
-**
+**Posibles cambios para el análisis de datos: / Possible changes for data analysis:**
 
 UPDATE AUGUST, 2019
 
 * Division of municipios and departamentos to see the amount of crime reported. I am keeping in mind that if a municipio has lower crimes if doesn't mean that it's safer but rather it could mean that people don't report crimes as often.
 
 UPDATE JUNE 30, 2019
+
 * Uso de GridSearchCV para mejorar los resultados de los falsos positivos dentro de la predicción de departamentos por delito.
 
 * Separación del análisis de la implentación de algoritmos según:
